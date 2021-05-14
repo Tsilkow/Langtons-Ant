@@ -1,6 +1,10 @@
 # Langton's Ant
 
 Script that simulates movements of langton's ant for customized rules.
+Example:
+
+[![Example Simulation](http://img.youtube.com/vi/DBtsv2UmVrk/0.jpg)](https://www.youtube.com/watch?v=DBtsv2UmVrk)
+
 There are n digits in each rule and i-th digit describes ant's behaviour, when number of visits modulo n is equal to i. Digits range from 0 to 5, where 0 describes	not changing direction, 1 is turning left 60 degrees, 2 is turning 120 degrees left and so on.
 So for example rule 123 would mean that on visits 0, 3, 6 and so on, ant will turn 60 degrees left, on visits 1, 4, 7 and so on, ant will turn 120 degrees left ...
 
