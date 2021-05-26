@@ -1,6 +1,6 @@
 # Langton's Ant
 
-Script that simulates movements of langton's ant for customized rules.
+Script that simulates movements of langton's ant on hexagonal grid for customized rules.
 Example:
 
 [![Example Simulation](http://img.youtube.com/vi/DBtsv2UmVrk/0.jpg)](https://www.youtube.com/watch?v=DBtsv2UmVrk)
